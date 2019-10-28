@@ -12,5 +12,9 @@
     "core"
   ],
   "author": "m.anangnur@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.7.7",
+    "mongoose-paginate": "^5.0.3"
+  }
 }
